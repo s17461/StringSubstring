@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TT:jar">
+    <output-path>$PROJECT_DIR$/src/main/resouces</output-path>
+    <root id="archive" name="TT.jar">
+      <element id="module-output" name="TT" />
+    </root>
+  </artifact>
+</component>
